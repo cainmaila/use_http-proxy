@@ -1,0 +1,26 @@
+{
+  "name": "use_http-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cainmaila/use_http-proxy.git"
+  },
+  "keywords": [
+    "http-proxy"
+  ],
+  "author": "cainmaila@gmai.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cainmaila/use_http-proxy/issues"
+  },
+  "homepage": "https://github.com/cainmaila/use_http-proxy#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "http-proxy": "^1.12.0"
+  }
+}
